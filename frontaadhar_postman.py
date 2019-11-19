@@ -12,7 +12,7 @@ import time
 
 # For error use:- pytesseract.pytesseract.TesseractNotFoundError: tesseract is not installed or it's not in your
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+#pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 app = Flask(__name__)
 
 
